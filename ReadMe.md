@@ -37,7 +37,7 @@ SIAM Journal on Numerical Analysis. SIAM. 17 (2): 238–246.
 
 ## Maven
 
-Библиотека собрана в `maven`- зависимость. Пример подключения лежит [здесь](https://github.com/aok-buran/JavaPatternsDemo).
+Библиотека собрана в `maven`- зависимость. Пример подключения лежит [здесь](https://github.com/aok-buran/JavaDemoMonotoneCubicInterpolation).
 
 Чтобы подключить её, нужно добавить репозиторий в файл `pom.xml`:
 
